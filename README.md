@@ -4,10 +4,10 @@
 
 ## About The Lock
 
-- 😺 I Just Started Making Coding Video's: Learn To Write Lua Code, C# Code And Win Form UI's.
-- 🌱 I’m currently learning everything Lol
-- 🥅 2022 Goals: Contribute to more projects.
-- ⚡ Fun fact: I love to draw 😎
+- 😺 C00lest Lock For DaHood And Hood Modded.
+- 🌱 Growing Everyday.
+- 🥅 Goals: 60 Buyers.
+- ⚡ Updating As Much As We Can.
 
 ---
 
@@ -21,10 +21,10 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Updates </summary>
   
 <!--START_SECTION:activity-->
-1. Nothing To See Here!
+1. Fixed the lock to show the player you locked onto.
 <!--END_SECTION:activity-->
 
 </details>
